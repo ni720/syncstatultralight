@@ -10,7 +10,7 @@ import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
 const INTERVAL = 5;
 
 // Project metadata
-const GITHUB_URL = 'https://github.com/ni720/syncthing-tray';
+const GITHUB_URL = 'https://github.com/ni720/syncstatultralight';
 
 const SyncthingTray = GObject.registerClass(
 class SyncthingTray extends PanelMenu.Button {
