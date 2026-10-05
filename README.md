@@ -1,4 +1,4 @@
-# Syncthing Tray
+# Syncthing Tray Ultra light
 
 A minimal GNOME Shell extension that shows whether Syncthing is running.
 no dependencies, quickly slopped with AI
@@ -13,14 +13,14 @@ no dependencies, quickly slopped with AI
 ## Installation
 
 ```bash
-git clone https://github.com/ni720/syncthing-tray.git
-cp -r syncthing-tray ~/.local/share/gnome-shell/extensions/syncthing-tray@user
+git clone https://github.com/ni720/syncstatultralight.git
+cp -r syncstatultralight ~/.local/share/gnome-shell/extensions/syncstatultralight@user
 ```
 
 Log out and back in, then:
 
 ```bash
-gnome-extensions enable syncthing-tray@user
+gnome-extensions enable syncstatultralight@user
 ```
 
 ## Configuration
@@ -36,7 +36,7 @@ gnome-extensions enable syncthing-tray@user
 ## Debugging
 
 ```bash
-journalctl --user -b -o cat | grep -i syncthing
+journalctl --user -b -o cat | grep -i syncstat
 ```
 
 ## License
