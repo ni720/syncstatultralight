@@ -14,7 +14,7 @@ no dependencies, quickly slopped with AI
 
 ```bash
 git clone https://github.com/ni720/syncthing-tray.git
-cp -r syncthing-tray/syncthing-tray@user ~/.local/share/gnome-shell/extensions/
+cp -r syncthing-tray ~/.local/share/gnome-shell/extensions/syncthing-tray@user
 ```
 
 Log out and back in, then:
