@@ -1,7 +1,7 @@
 {
-  "uuid": "syncthing-tray@user",
-  "name": "Syncthing Tray",
+  "uuid": "syncstatultralight@user",
+  "name": "Syncthing Tray ultra light",
   "description": "Zeigt an, ob Syncthing läuft",
-  "shell-version": ["45", "46", "47", "48", "49", "50"]
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"]
 }
 
